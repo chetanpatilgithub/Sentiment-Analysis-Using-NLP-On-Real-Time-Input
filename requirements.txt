@@ -1,0 +1,11 @@
+beautifulsoup4
+lxml
+pandas
+requests
+matplotlib
+flask
+requests-html
+textblob
+transformers
+beautifulsoup4
+bs4
